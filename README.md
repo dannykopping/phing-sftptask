@@ -1,6 +1,6 @@
 ### About:
 
-Copy files to and from a remote host using sftp. Based on phing scp task.
+Phing task to copy files to and from a remote host using sftp. Based on scp task.
 
 ### Usage:
 
